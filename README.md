@@ -1,6 +1,6 @@
 # 一个代码小白的自述文件
-## 嘿! 第一个二级标题
-### 啊欧, 变成了三级标题, 测试一下响应式图像
+## 第一个二级标题
+### 三级标题, 以下测试响应式图像
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
